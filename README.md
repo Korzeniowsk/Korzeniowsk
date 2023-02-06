@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Korzeniowsk
-- 👀 I’m interested in software designing
 - 🌱 I’m currently at the basics of coding and web designing
 - 💞️ I’m looking to collaborate on really small projects, so that i can build up my skills
 - 📫 How to reach me? i'm here :))

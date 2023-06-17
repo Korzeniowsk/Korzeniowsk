@@ -3,7 +3,7 @@
 - 🌱 I’m currently at the basics of coding and web designing
 - 💞️ I’m looking to collaborate on really small projects, so that i can build up my skills
 - 📫 How to reach me? i'm here :))
-- Basic knowledge in HTML, CSS, JAVASCRIPT, C++, C, PYTHON, SQL
+- Basic knowledge in HTML, CSS, C++, C,
 
 <!---
 Korzeniowsk/Korzeniowsk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
